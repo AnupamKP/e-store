@@ -1,2 +1,3 @@
 # e-store
-An E-commerce web application written in Django.
+
+An E-commerce web application written with Python and JavaScript frameworks.
